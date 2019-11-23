@@ -1,7 +1,7 @@
 PyTorch code for Mining on Heterogeneous Manifolds for Zero-shot Cross-modal Image Retrieval
 
 Reference:
-- [F. Yang](https://fyang.me), [Zheng Wang](https://wangzwhu.github.io/home), Jing Xiao, [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/index.html)
+- [F. Yang](https://fyang.me), [Zheng Wang](https://wangzwhu.github.io/home), Jing Xiao, [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/index.html), "Mining on Heterogeneous Manifolds for Zero-shot Cross-modal Image Retrieval", AAAI 2020.
 
 ## Prepare
 
@@ -18,3 +18,10 @@ Set `CUDA_VISIBLE_DEVICES` according to your needs.
 
 Use `make test` to evaluate.
 Set `CUDA_VISIBLE_DEVICES` according to your needs.
+
+## Models
+
+You may find our trained models below.
+- [Model for thermal images](https://drive.google.com/file/d/160HbLLCq5-sm78ItA4pS347MJc5s0_tS/view?usp=sharing)
+- [Model for visible images](https://drive.google.com/file/d/1tT0uCpn0aY5kUS2hrmKcoLr5VYg4eZlu/view?usp=sharing)
+- [Cross-modal model for both modalities](https://drive.google.com/file/d/1HTUctPdIJDpo4cJOThk9eUeMEcybUlhO/view?usp=sharing)
